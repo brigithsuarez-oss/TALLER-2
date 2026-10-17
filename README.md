@@ -119,6 +119,43 @@
 
 <img width="843" height="607" alt="image" src="https://github.com/user-attachments/assets/96de977e-e959-4bbd-8dc4-0376fdb97286" />
 
+# PARTE 2
+
+<img width="1357" height="757" alt="image" src="https://github.com/user-attachments/assets/ef5701b9-db48-47e2-b0ec-604557295f76" />
+
+
+La investigación debe diseñarse como un estudio longitudinal, observacional, retrospectivo y predictivo, con dos dimensiones complementarias:
+1. Dimensión A. Patrones de las desapariciones: identificar tendencias temporales, perfiles registrados, concentración territorial y factores asociados con los casos reportados.
+2. Dimensión B. Localización y respuesta institucional: analizar el tiempo transcurrido hasta la localización, las diferencias entre grupos y territorios, y los factores que se asocian con una localización más rápida o más lenta.
+
+<img width="1360" height="646" alt="image" src="https://github.com/user-attachments/assets/bde21b8d-93c2-4ce1-8464-e9f0f766ffd1" />
+
+
+<img width="1341" height="728" alt="image" src="https://github.com/user-attachments/assets/e31abbfb-2c65-4884-8c3f-7cb157904561" />
+
+
+<img width="2671" height="1467" alt="01_situacion_actual" src="https://github.com/user-attachments/assets/4b73e155-c17a-457a-9406-6f04be0e33e5" />
+
+
+<img width="2953" height="1467" alt="top_motivo_desaparicion" src="https://github.com/user-attachments/assets/ec13b903-72bb-41dd-bb04-4418b45c5faf" />
+<img width="2970" height="1467" alt="top_canton" src="https://github.com/user-attachments/assets/d9f79096-daaf-4b9b-b34b-2aa98b351509" />
+<img width="2967" height="1467" alt="top_sexo" src="https://github.com/user-attachments/assets/09c42927-730b-4c72-aac6-3e157de43c0b" />
+<img width="2966" height="1467" alt="top_rango_edad" src="https://github.com/user-attachments/assets/9043d178-d8e8-4c05-b6e2-c8654a25c764" />
+<img width="2964" height="1467" alt="top_provincia" src="https://github.com/user-attachments/assets/12f0fed6-6274-43bd-8121-522e0dd03c0b" />
+
+<img width="1337" height="672" alt="image" src="https://github.com/user-attachments/assets/7ffc93e4-8676-4db3-8060-daf57d9f2ebe" />
+<img width="4770" height="3560" alt="08_mapa_personas_encontradas_por_provincia" src="https://github.com/user-attachments/assets/cb385a85-8489-4fbc-b30c-986d216bb633" />
+
+<img width="1346" height="727" alt="image" src="https://github.com/user-attachments/assets/2c5a5ce0-a8cd-408e-b105-fb7bcda830fb" />
+
+<img width="1350" height="733" alt="image" src="https://github.com/user-attachments/assets/60ca58a6-28aa-4bcf-ab62-f3fccad91ffa" />
+
+<img width="1335" height="682" alt="image" src="https://github.com/user-attachments/assets/3d863cc0-a5e9-47d6-a45f-ee5db80e3bda" />
+
+<img width="2669" height="1469" alt="03_intervalo_denuncia" src="https://github.com/user-attachments/assets/1816263b-5ba4-4b4c-82ae-9f0497d86847" />
+
+
+
 
 
 
